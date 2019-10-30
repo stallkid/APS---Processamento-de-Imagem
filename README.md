@@ -2,8 +2,7 @@
 
 ## Descrição
 
-    O projeto procura aplicar um filtro no ambiente, de maneira com que pela detecção das bordas,
-o fundo seja removido e assim adicionado a uma imagem temática.
+O projeto procura aplicar um filtro no ambiente, de maneira com que pela detecção das bordas o fundo seja removido e assim adicionado à uma imagem temática.
 
 ## Procedimento
 
@@ -14,9 +13,11 @@ Deve-se criar um virtual environment
 Deve-se ativar o environment
 
 Linux:
+
     $ source venv/bin/activate
 
 Windows:
+
     $ /venv/scripts/activate.bat
 
 Antes de executar o projeto deve-se baixar as dependencias no virtual environment
